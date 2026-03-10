@@ -1,0 +1,4 @@
+name: ide_testsp
+dependencies:
+  flutter:
+    sdk: flutter
